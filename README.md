@@ -1,7 +1,7 @@
 #Created by hbgon on 10 July 2023.
 
 
-# ZTF Query LC
+# ZTF LC Query
 
 
 **Version 1.0:**
