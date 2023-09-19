@@ -17,3 +17,12 @@ A more sophisticated way to retrieve data from the Zwicky Transient Facility giv
 Use "teste_sample.xlsx" as an example.
 
 ----------------------
+
+**Version 2.5:**
+
+There is no longer the option to download with approval and now the legend of the plots shows the RMSD of the band and "reliability" which means "(RMSD/average error)". The plot nomenclature is written as "{g band rmsd}-ra{ra},dec{dec}.png". If the query does not present data, the plot name will start with 1.0.
+
+
+Use "teste_sample.xlsx" as an example.
+
+----------------------
